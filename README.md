@@ -1,1 +1,1 @@
-# DW-23500-YAL
+# Uvita.pe CSS and HTML only
